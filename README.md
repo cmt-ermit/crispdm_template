@@ -1,2 +1,2 @@
-# Datasci_Resources
+# Resources
 CRISP-DM template for machine learning projects
